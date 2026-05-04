@@ -12,9 +12,3 @@ Equity curve
 Drawdown curve
 Adds a smoothed trend line using a rolling mean
 Runs and displays all graphs automatically
-
-# Relevant Wikipedia Links
-Backtesting
-Moving Average
-Random Walk
-Drawdown (economics)
